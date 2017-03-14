@@ -1,6 +1,6 @@
 # Careers @ Answer.ky
 
-  We're a San Francisco startup using Deep Learning in the Education space.  The founding team moved to Brisbane as part of an Advanced Queensland Grant, and are looking to build a talented team to help ramp up growth!
+  We're a San Francisco startup using Deep Learning in the Education space.  The founding team moved to Brisbane as part of an Advanced Queensland Grant, and are looking to build a talented team to help ramp up growth!  We acquired our first 10 customers, help us reach the next 100 :)
 
 interested in applying?  please submit a PR to this repo with something you're proud of
 
@@ -26,7 +26,6 @@ Using over 30 million handwriting samples, we've trained neural networks to read
 * 60,000 automatically graded answers
 * beachhead market of 200M+ USD
 * first 10 paying customers acquired!
-* onto the next 10, and the next 10 ...
 
 ### team and experience
 
