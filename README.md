@@ -22,7 +22,7 @@ founders@answer.ky
 Using over 30 million handwriting samples, we've trained neural networks to read human handwriting.  Meaning computers can automatically grade words, numbers, equations, graphs, just as easily as (A) (B) (C) on a multi-choice exam.  
 
 * impact focused company
-* deep learning
+* we use caffee for nets, opencv for the machine vision
 * 60,000 automatically graded answers
 * beachhead market of 200M+ USD
 * first 10 paying customers acquired!
