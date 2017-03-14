@@ -6,6 +6,8 @@ interested in applying?  please submit a PR to this repo with something you're p
 
 Thanks!
 
+founders@answer.ky
+
 ### quick overview
 
 * __revenue grew 200% last week__
