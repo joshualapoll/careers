@@ -45,19 +45,19 @@ Core team always has the opportunity to move around different roles, if you want
 graduates and current students welcome.  
 
 1.  __frontend engineer__
-  * paid and credit roles
+  * paid position
   * reactjs & flux
   * strong design / html / css
   * bonus: webpack & electron
 
 2.  __backend engineer__
-  * paid and credit roles
+  * paid position
   * python django REST apis
   * postgresql, firebase
   * bonus: opencv and caffe
   
 3.  __marketing__
-  * paid and credit roles
+  * paid and non
   * customer communication, copy writing
   * work with design and sales
   * optimize lead-gen
