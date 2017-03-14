@@ -17,7 +17,7 @@ Thanks!
 
 ### Product
 
-Using over 30 million handwriting, we've trained neural networks to read human handwriting.  Meaning computers can automatically grade words, numbers, equations, graphs, just as easily as (A) (B) (C) on a multi-choice exam.  
+Using over 30 million handwriting samples, we've trained neural networks to read human handwriting.  Meaning computers can automatically grade words, numbers, equations, graphs, just as easily as (A) (B) (C) on a multi-choice exam.  
 
 * impact focused company
 * deep learning
