@@ -29,7 +29,7 @@ Using over 30 million handwriting samples, we've trained neural networks to read
 
 ### team and experience
 
-Alexander Gugel, Erik Nilsen, Joshua La Poll, Michael Xia, Yotam Rosenbaum
+Erik Nilsen, Joshua La Poll, Michael Xia, Yotam Rosenbaum
 
 We're cool (or so I like to think) just get to know us a bit :D
 
