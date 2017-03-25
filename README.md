@@ -2,20 +2,11 @@
 
   We're a San Francisco startup using Deep Learning in the Education space.  The founding team moved to Brisbane as part of an Advanced Queensland Grant, and are looking to build a talented team to help ramp up growth!  We acquired our first 10 customers, help us reach the next 100 :)
 
-interested in applying?  please submit a PR to this repo with something you're proud of
+interested in applying?  Check below for more info, please submit a PR to this repo and get creative about it.  
 
 Thanks!
 
 founders@answer.ky
-
-### Overview
-
-* __revenue grew 200% last week__
-* customers waiting on us in __USA, AUS, and UK__
-* saas product selling to small businesses
-* need __engineering__ and __marketing__ roles
-* __paid__ positions, __equity__ an option too.  
-* __split time in our San Francisco office__
 
 ### Roles
 
@@ -45,6 +36,15 @@ grads and current students welcome.
   * how can you add value?  
   * what do you want in return?
   
+### Overview
+
+* __revenue grew 200% last week__
+* customers waiting on us in __USA, AUS, and UK__
+* saas product selling to small businesses
+* need __engineering__ and __marketing__ roles
+* __paid__ positions, __equity__ an option too.  
+* __split time in our San Francisco office__
+
 ### Product
 
 Using over 30 million handwriting samples, we've trained neural networks to read human handwriting.  Meaning computers can automatically grade words, numbers, equations, graphs, just as easily as (A) (B) (C) on a multi-choice exam.  
