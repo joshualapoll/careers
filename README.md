@@ -2,11 +2,10 @@
 
   We're a San Francisco startup using Deep Learning in the Education space.  The founding team moved to Brisbane as part of an Advanced Queensland Grant, and are looking to build a talented team to help ramp up growth!  We acquired our first 10 customers, help us reach the next 100 :)
 
-interested in applying?  Check below for more info, please submit a PR to this repo and get creative about it.  
+interested in applying?  Check below for more info, please email us at jobs@answer.ky and let us know why you think you are a great fit for our company.  No need to be all formal about it :)
 
 Thanks!
 
-founders@answer.ky
 
 ### Roles
 
